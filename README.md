@@ -1,21 +1,21 @@
-# 🚚 Simulador de Entrega
+#Simulador de Entrega
 
 Este é um projeto em PHP que simula o tempo e o custo de entrega utilizando diferentes meios de transporte, considerando a distância e o clima.
 
-## 📦 Funcionalidades
+## Funcionalidades
 
 - Interface comum para todos os meios de entrega.
 - Meios de entrega disponíveis:
-  - 🏍️ Moto
-  - 🚲 Bicicleta
-  - 🛸 Drone
-  - 🐎 Cavalo
+  - Moto
+  - Bicicleta
+  - Drone
+  - Cavalo
 - Restrições climáticas aplicadas para alguns meios.
 - Simulação automatizada com base em distância e clima.
 
 ---
 
-## 🗂️ Estrutura de Diretórios
+## Estrutura de Diretórios
 
 ```
 simulador-entrega/
@@ -36,7 +36,7 @@ simulador-entrega/
 
 ---
 
-### 📌 Passos para rodar o simulador
+### Passos para rodar o simulador
 
 1. Clone o repositório ou baixe os arquivos:
 
@@ -58,7 +58,7 @@ Você verá a simulação no terminal, indicando:
 
 ---
 
-## 🌦️ Exemplo de uso
+##  Exemplo de uso
 
 Imagine uma simulação de 30 km com o clima "chuva". A saída pode ser:
 
@@ -80,7 +80,7 @@ Imagine uma simulação de 30 km com o clima "chuva". A saída pode ser:
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - PHP (Programação Orientada a Objetos)
 - Terminal/CLI
